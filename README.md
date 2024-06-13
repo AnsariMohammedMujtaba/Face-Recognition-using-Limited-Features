@@ -14,3 +14,8 @@ Welcome to the repository for my final year project on face recognition using li
 - **Machine Learning**: Implemented Machine Learning Concept for this.
 - **Haar Cascade Classifier**: Used for detecting facial features such as eyes.
 - **Git/GitHub**: Version control and collaboration for project management.
+
+## Future Prospects
+
+Continuously exploring opportunities to enhance the system's capabilities with advanced features such as more accuracy for performance insights, AI-driven optimizations and GUI integration.
+

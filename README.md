@@ -1,4 +1,4 @@
-# Face-Recognition-using-Limited-Features
+# Face Recognition using Limited Features
 
 A Python-based face recognition system that accurately identifies individuals by analyzing limited facial features, specifically focusing on the **eye region**. This approach is particularly useful in scenarios where faces are partially occluded, e.g., with masks.
 
